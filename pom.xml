@@ -28,7 +28,7 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-
+<!-- comment added --> 
 	<build>
 	<finalName>docker-jenkins-integration-sample</finalName>
 		<plugins>
